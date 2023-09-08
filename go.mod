@@ -1,4 +1,4 @@
-module github.com/logikoof/lgf-ccc
+module github.com/logikoof/lgf-ccc-models
 
 go 1.20
 
